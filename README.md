@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @vipkanisorn
-- 👀 I’m interested in coding
-- 🌱 I’m currently studying at Faculty of Information and Communication technology.
+- 👋 Hi, I’m @vipkanisorn.
+- 👀 I’m interested in coding.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
